@@ -1,5 +1,5 @@
 {
-  "name": "Scratch Extension development environment",
+  "name": "ExtDev",
   "image": "dalelane/scratch-extension-devenv:202303182007",
   "features": {
   },
